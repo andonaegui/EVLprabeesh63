@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="header_titles">
+        <item>Pelis de Accion</item>
+        <item>Pelis de Romance</item>
+        <item>Pelis de Horror</item>
+    </string-array>
+
+    <string-array name="h1_items">
+        <item>The Dark Knight</item>
+        <item>Bourne; Ultimatum</item>
+        <item>The Purge</item>
+    </string-array>
+
+    <string-array name="h2_items">
+        <item>Titanic</item>
+        <item>Lo que el Viento se Llevo</item>
+        <item>Romance en Stranglenton</item>
+    </string-array>
+
+    <string-array name="h3_items">
+        <item>Saw 3</item>
+        <item>Krusty, el Payaso</item>
+        <item>Werewolf; the Apocalypse</item>
+    </string-array>
+</resources>
