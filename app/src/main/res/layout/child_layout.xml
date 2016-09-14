@@ -6,6 +6,7 @@
     android:background="#7adbf4"
     >
     <TextView
+        android:id="@+id/child_item"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="Hello Angular"
