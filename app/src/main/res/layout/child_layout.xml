@@ -3,7 +3,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="50sp"
-    android:background="#7adbf4"
+    android:background="#d2d2d2"
     >
     <TextView
         android:id="@+id/child_item"

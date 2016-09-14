@@ -9,7 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
     tools:context="com.example.randona.myapplication.MainActivity"
-    android:background="#94c8ff"
+    android:background="#ffffff"
     >
     <ExpandableListView
         android:layout_width="match_parent"
